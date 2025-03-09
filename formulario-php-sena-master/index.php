@@ -1,9 +1,13 @@
 <?php
 /**
-Nombre: Jiuly Rojas
-Cedula: CE-18043559 
-Programa: DESARROLLO WEB CON PHP(1706473)
+Nombre: Diana Pacheco
+Fecha: 09/03/2025
+Cedula: C.C 1118541504
+Programa: DESARROLLO WEB CON PHP
+
+
 Evidencia: Taller "Uso de formularios para transferencia"
+
 
 **/
 ?>
